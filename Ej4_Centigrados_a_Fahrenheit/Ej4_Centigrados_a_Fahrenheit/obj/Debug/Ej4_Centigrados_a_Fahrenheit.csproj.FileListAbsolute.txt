@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\bin\Debug\Ej4_Centigrados_a_Fahrenheit.exe.config
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\bin\Debug\Ej4_Centigrados_a_Fahrenheit.exe
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\bin\Debug\Ej4_Centigrados_a_Fahrenheit.pdb
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.Form1.resources
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.exe
+C:\Users\jared\source\repos\Ej4_Centigrados_a_Fahrenheit\Ej4_Centigrados_a_Fahrenheit\obj\Debug\Ej4_Centigrados_a_Fahrenheit.pdb
